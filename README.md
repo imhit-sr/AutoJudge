@@ -119,6 +119,20 @@ The app returns:
 Runs locally.
 
 ---
+\## ▶️ Steps to Run the Project Locally
+
+### 1. Install required dependencies
+```bash
+pip install -r requirements.txt
+```
+### 2. Run the streamlit application
+```bash
+streamlit run app_final.py
+```
+### 3. Open the application in browser
+```bash
+http://127.0.0.1:5000/
+```
 👤 Author
 
 Name: Mohit Sharma
