@@ -75,10 +75,8 @@ All features strictly originate from text, ensuring full adherence to project ru
 
 Two independent models were trained:
 
-### 🔹 Difficulty Classification — Linear SVM  
+### 🔹 Difficulty Classification — Random forest classifier
 - Predicts Easy / Medium / Hard  
-- Performs well on high-dimensional sparse text  
-- Class weights balanced due to label imbalance
 
 ### 🔹 Difficulty Regression — XGBoost  
 - Predicts numeric difficulty score  
@@ -118,12 +116,9 @@ The app returns:
 - Predicted difficulty class  
 - Predicted difficulty score  
 
-Runs locally — cloud deployment optional.
+Runs locally.
 
 ---
-
-## ▶️ Running the Project Locally  
-
-Install required dependencies:
-```bash
-pip install -r requirements.txt
+👤 Author
+Name: Mohit Sharma
+Enrollment no: 23112062
