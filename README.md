@@ -119,7 +119,7 @@ The app returns:
 Runs locally.
 
 ---
-\## ▶️ Steps to Run the Project Locally
+### ▶️ Steps to Run the Project Locally
 
 ### 1. Install required dependencies
 ```bash
