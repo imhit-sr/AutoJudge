@@ -120,6 +120,10 @@ The app returns:
 Runs locally.
 
 ---
+### 🎥 Demo Video
+📌 Demo Video Link:
+👉 https://www.youtube.com/watch?v=vmTYcQcxZWg
+
 ### ▶️ Steps to Run the Project Locally
 
 ### 1. Install required dependencies
